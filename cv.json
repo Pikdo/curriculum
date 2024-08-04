@@ -1,0 +1,268 @@
+{
+  "basics": {
+    "name": "Alejandro Picado Brenes",
+    "label": "Ingeniero de Sistemas Full Stack, con más de 14 años de experiencia & Mentor de desarrollo personal y profesional",
+    "image": "/me.webp",
+    "email": "ali87to@gmail.com",
+    "phone": "+506 8702-9999",
+    "url": "https://alejandropikdo.com/",
+    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "el Prat de Llobregat",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pikdo",
+        "url": "https://linkedin.com/in/pikdo"
+      },
+      {
+        "network": "X",
+        "username": "Pikdo",
+        "url": "https://x.com/pikdo"
+      },
+      {
+        "network": "GitHub",
+        "username": "pikdo",
+        "url": "https://github.com/pikdo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Alejandro Pikdo",
+      "position": "Mentor de desarrollo personal y profesional",
+      "url": "https://alejandropikdo.com/",
+      "startDate": "01-01-2024",
+      "endDate": null,
+      "summary": "Ingeniero de software con 2 millones de seguidores reconocido por Pasos al éxito, Psi Mammoliti, Platzi, Google, Github y otros por apoyar a la comunidad en su desarrollo personal y profesional",
+      "highlights": [
+        "Mentoria"
+      ]
+    },
+    {
+      "name": "ESPH-SA",
+      "position": "Senior Full Stack Developer & Project Lead",
+      "url": "https://esph-sa.com",
+      "startDate": "01-09-2014",
+      "endDate": null,
+      "summary": "Ingeniero de software, con +14 años de experiencia en el análisis, desarrollo e implementación de sistemas de información para el sector público",
+      "highlights": [
+        "Compañia de Servicios Públicos en Costa Rica"
+      ]
+    },
+    {
+      "name": "ESPH GPL",
+      "position": "Senior Full Stack Developer",
+      "startDate": "2011-03-01",
+      "endDate": "2016-05-01",
+      "summary": "Desarrollé un sistema para la planificación institucional para una empresa de servicios públicos, en Agua, Energía, Residuos, Telecomunicaciones y otros",
+      "highlights": [
+        "Compañia de Servicios Públicos en Costa Rica"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad Nacional",
+    "url": "https://www.escinf.una.ac.cr/",
+    "area": "Ingeniero de Sistemas de Información",
+    "studyType": "Bachelor",
+    "startDate": "01-01-2006",
+    "endDate": "06-01-2010",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Medio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Medio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Jquery",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Javascript"
+      ]
+    }    
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://adventjs.dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": [
+        "100% gratuito",
+        "+500 soluciones de la comunidad"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "https://miduconf.com"
+    }
+  ]
+}
